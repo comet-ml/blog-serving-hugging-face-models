@@ -1,0 +1,9 @@
+flask
+transformers
+pydantic
+fastapi
+numpy
+gunicorn
+uvicorn
+httptools
+uvloop
