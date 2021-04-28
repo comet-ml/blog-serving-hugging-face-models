@@ -1,5 +1,5 @@
 # How to easily and efficiently deploy Hugging Face models
-Code repository to reproduce the benchmarking results presented in ****
+Code repository to reproduce the benchmarking results presented [here](https://www.comet.ml/site/how-to-10x-throughput-when-serving-hugging-face-models-without-a-gpu/)
 
 The repo is broken down into 2 sections:
 * python-api: The Python inference services that we tested:
